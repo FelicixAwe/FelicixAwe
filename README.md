@@ -1,4 +1,9 @@
 <h1 align="center">Hi 👋, I'm Esther Xiao</h1>
+
+[![Stats](https://gh-stats.343.re/api?username=felicixawe&count_private=true&hide=prs&show_icons=true&include_all_commits=true&theme=onedark)](https://github.com/felicixawe)
+
+[![Top-langs](https://gh-stats.343.re/api/top-langs?username=felicixawe&langs_count=8&hide=html,css&layout=compact&theme=onedark)](https://github.com/felicixawe)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felicixawe&label=Profile%20views&color=0e75b6&style=flat" alt="felicixawe" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=felicixawe" alt="felicixawe" /></a> </p>
